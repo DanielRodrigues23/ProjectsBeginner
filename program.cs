@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace ConsoleApp1
+namespace Exercicio01
 {
     class Program
     {
